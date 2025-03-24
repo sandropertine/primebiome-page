@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PrimeBiome - The Skincare Revolution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f8f8f8;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #ff6600;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #e65c00;
+        }
+        .testimonials {
+            font-style: italic;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔥 PrimeBiome – The Skincare Revolution! 🔥</h1>
+        <h2>Discover the Secret to Youthful and Radiant Skin!</h2>
+        <p>Tired of wrinkles, sagging skin, and dryness? <strong>PrimeBiome</strong> is the natural solution that works from the inside out, restoring your skin’s health! ✨🌿</p>
+        <ul>
+            <li>✅ Reduces wrinkles and fine lines</li>
+            <li>✅ Improves elasticity and hydration</li>
+            <li>✅ Balances gut and skin microbiome</li>
+            <li>✅ 100% natural and clinically tested ingredients</li>
+        </ul>
+        <a href="https://getprimebiome.com/video_tbl.php?affiliate=YOURIDHERE" class="cta-button">Get Yours Now!</a>
+        <h2>📢 What People Are Saying?</h2>
+        <p class="testimonials">"My skin has never looked better! I’ve been using it for 2 months, and the results are amazing." – Sarah T.</p>
+        <p class="testimonials">"I feel younger, and my digestion has also improved! Highly recommend!" – Jessica M.</p>
+        <h3>🚀 Limited Stock! Order Yours Now!</h3>
+        <a href="https://getprimebiome.com/video_tbl.php?affiliate=YOURIDHERE" class="cta-button">Claim Your Offer Today</a>
+    </div>
+</body>
+</html>
