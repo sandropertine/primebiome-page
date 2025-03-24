@@ -54,12 +54,12 @@
             <li>✅ Balances gut and skin microbiome</li>
             <li>✅ 100% natural and clinically tested ingredients</li>
         </ul>
-        <a href="https://getprimebiome.com/video_tbl.php?affiliate=YOURIDHERE" class="cta-button">Get Yours Now!</a>
+        <a href="https://getprimebiome.com/video_tbl.php?affiliate=mm2025" class="cta-button">Get Yours Now!</a>
         <h2>📢 What People Are Saying?</h2>
         <p class="testimonials">"My skin has never looked better! I’ve been using it for 2 months, and the results are amazing." – Sarah T.</p>
         <p class="testimonials">"I feel younger, and my digestion has also improved! Highly recommend!" – Jessica M.</p>
         <h3>🚀 Limited Stock! Order Yours Now!</h3>
-        <a href="https://getprimebiome.com/video_tbl.php?affiliate=YOURIDHERE" class="cta-button">Claim Your Offer Today</a>
+        <a href="https://getprimebiome.com/video_tbl.php?affiliate=mm2025" class="cta-button">Claim Your Offer Today</a>
     </div>
 </body>
 </html>
